@@ -1,0 +1,10 @@
+C:\Users\Kate\Desktop\Library\HomeWorkLibrary\HomeWorkLibrary\bin\Debug\HomeWorkLibrary.exe.config
+C:\Users\Kate\Desktop\Library\HomeWorkLibrary\HomeWorkLibrary\bin\Debug\HomeWorkLibrary.exe
+C:\Users\Kate\Desktop\Library\HomeWorkLibrary\HomeWorkLibrary\bin\Debug\HomeWorkLibrary.pdb
+C:\Users\Kate\Desktop\Library\HomeWorkLibrary\HomeWorkLibrary\bin\Debug\MyClasses.dll
+C:\Users\Kate\Desktop\Library\HomeWorkLibrary\HomeWorkLibrary\bin\Debug\MyClasses.pdb
+C:\Users\Kate\Desktop\Library\HomeWorkLibrary\HomeWorkLibrary\obj\Debug\HomeWorkLibrary.csprojAssemblyReference.cache
+C:\Users\Kate\Desktop\Library\HomeWorkLibrary\HomeWorkLibrary\obj\Debug\HomeWorkLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Kate\Desktop\Library\HomeWorkLibrary\HomeWorkLibrary\obj\Debug\HomeWorkLibrary.csproj.CopyComplete
+C:\Users\Kate\Desktop\Library\HomeWorkLibrary\HomeWorkLibrary\obj\Debug\HomeWorkLibrary.exe
+C:\Users\Kate\Desktop\Library\HomeWorkLibrary\HomeWorkLibrary\obj\Debug\HomeWorkLibrary.pdb
